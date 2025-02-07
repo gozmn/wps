@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/320px-WPS-logo.svg.png" width="40%" alt="WPS logo" />
 </div>
 
-<p></p>
+<br>
 
 <p>Install WPS Office in linux and issues fixed
 
