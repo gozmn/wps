@@ -3,7 +3,7 @@ Install WPS Office in linux and issues fixed
 
 1. Download WPS Office from https://www.wps.com/. You may choose Deb Package or Rpm Package accordingly.
 2. Double click to install it in your GUI environment
-3. Once you complete the installation, there are two potaincial issues to be fixed.
+3. Once you complete the installation, there are two potential issues to be fixed.
    1) Missing fonts issue
       
       Download all those fonts from <a href="missing_fonts">missing fonts</a> folder and copy them to the folder (/usr/share/fonts/wps-office or within /usr/share/fonts)
