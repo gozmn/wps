@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true](https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/1280px-WPS-logo.svg.png)" width="60%" alt="WPS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/1280px-WPS-logo.svg.png" width="60%" alt="WPS logo" />
 </div>
 
 # wps
