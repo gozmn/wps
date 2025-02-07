@@ -1,8 +1,7 @@
-<div align="center">
+<div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/1280px-WPS-logo.svg.png" width="60%" alt="WPS logo" />
 </div>
 
-# wps
 Install WPS Office in linux and issues fixed
 
 1. Download WPS Office from https://www.wps.com/. You may choose Deb Package or Rpm Package accordingly.
