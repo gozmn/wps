@@ -10,7 +10,7 @@ Install WPS Office in linux and issues fixed
       
    3) Can not export to PDF issue
       
-      $ cd /usr/lib/x86_64-linux-gnu
-      $ ls -l libtiff*
-      if there is nothing appeared, please install libtiff package, e.g., sudo apt install libtiffX (X is the version number, e.g., libtiff6) 
-      $ sudo ln -s libtiff.so.6.0.0 libtiff.so.5
+      $ cd /usr/lib/x86_64-linux-gnu <br>
+      $ ls -l libtiff* <br>
+      if there is nothing appeared, please install libtiff package, e.g., sudo apt install libtiffX (X is the version number, e.g., libtiff6) <br>
+      $ sudo ln -s libtiff.so.6.0.0 libtiff.so.5 <br>
