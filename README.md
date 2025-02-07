@@ -6,7 +6,7 @@ Install WPS Office in linux and issues fixed
 3. Once you complete the installation, there are two potaintial issues to be fixed.
    1) Missing fonts issue
       
-      Download all those fonts from <a href="missing fonts">missing fonts</a> folder and copy them to the folder (/usr/share/fonts/wps-office or within /usr/share/fonts)
+      Download all those fonts from <a href="missing_fonts">missing fonts</a> folder and copy them to the folder (/usr/share/fonts/wps-office or within /usr/share/fonts)
       
    3) Can not export to PDF issue
       
