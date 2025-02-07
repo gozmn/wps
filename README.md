@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/1280px-WPS-logo.svg.png" width="40%" alt="WPS logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/WPS-logo.svg/320px-WPS-logo.svg.png" width="40%" alt="WPS logo" />
 </div>
 
 <p></p>
